@@ -111,5 +111,16 @@ PRs are welcome! Fork this repo, improve it, and open a pull request.
 This project is licensed under the MIT License.
 
 ---
+<div align="center">
 
-> Made with 💙 by [Ujjwal Amrit](https://github.com/UjjwalAmrit)
+**Made with ❤️ for Adobe India Hackathon 2025**
+
+</div>
+
+
+
+<div align="center">
+
+**Made with 💙 by [Ujjwal Amrit](https://github.com/UjjwalAmrit), [Nikhil Pratap Singh](https://github.com/Niku009),  [Saurabh Kumer Yadav](https://github.com/REDspyder333)**
+
+</div>
